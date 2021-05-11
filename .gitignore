@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+golang-vuejs-boilerplate
 
 # Test binary, built with `go test -c`
 *.test
@@ -12,4 +13,5 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+views/node_modules
+views/dist/*
